@@ -45,7 +45,7 @@ extraParams:
   enableGPU: 1
   # GPU设备编号
   # GPU device number
-  gpuDevice: 0
+  gpuDevice: 0,1
   # 一次计算个数, 默认 10240000
   # Calculate the number at a time, the default is 10240000
   gpuBatchCount: 10240000
