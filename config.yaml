@@ -1,6 +1,6 @@
 # miner名称，不填使用电脑名
 # miner name, use the computer name without filling in
-minerName: "kaggle1"
+minerName: "kaggle4"
 # 在 https://www.hpool.in/center/configuration 找ApiKey
 # Find ApiKey at https://www.hpool.in/center/configuration
 apiKey: "ironfish-8060-b26b-24fc-df503926a8f3"
